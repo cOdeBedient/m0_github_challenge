@@ -1,3 +1,3 @@
 # GitHub Steps
 
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+It is necessary to establish a link with git push -u origin maine
